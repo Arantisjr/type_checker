@@ -52,6 +52,6 @@ print(add(2, "3"))    # Raises TypeError: argument b must be <class 'int'>
 ## Notes
 
 - Only arguments with type annotations are checked.
-- The decorator does not check the return type.
+  
 
 
